@@ -11,3 +11,7 @@
 - Router Site Password Cracker(Dictionary Attack / Brute-Force)
 
 - IP Address Scanner
+
+
+
+Hacking your OWN computers is legal. Hacking somebody else's computers, without any permission to do so is very very illegal!
