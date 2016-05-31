@@ -1,0 +1,14 @@
+/etc
+/etc/pwd
+/etc/passwd
+/etc/security
+/etc/shadow
+/etc/group
+/etc/security/group
+/etc/security/passwd
+/etc/security/user
+/etc/security/environ
+/etc/security/limits
+/usr/lib/security/mkuser.default
+/admin
+/administrator
