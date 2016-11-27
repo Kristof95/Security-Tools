@@ -33,7 +33,7 @@ def usr_input():
 
 def default():
     print("The script will be use the default credentials.")
-    ssh_login("192.168.0.104", "devops", "king")
+    ssh_login("localhost", "test", "test")
     exit(0)
 
 if __name__ == "__main__":
